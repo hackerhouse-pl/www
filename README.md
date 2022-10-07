@@ -18,3 +18,6 @@ www.hackerhouse.pl
 > before the hackers do
 > 
 > Intruder is an online vulnerability scanner that finds cyber security weaknesses in your digital infrastructure, to avoid costly data breaches.
+
+
+[Hardware Security Podcast](https://www.cybok.org/events/hardware-security-podcast)
